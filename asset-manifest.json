@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/stock.git/static/css/main.81a13bbc.css",
+    "main.js": "/stock.git/static/js/main.ccf6461d.js",
+    "static/media/register.jpg": "/stock.git/static/media/register.c8e9eda333396ddcc2e3.jpg",
+    "index.html": "/stock.git/index.html",
+    "main.81a13bbc.css.map": "/stock.git/static/css/main.81a13bbc.css.map",
+    "main.ccf6461d.js.map": "/stock.git/static/js/main.ccf6461d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81a13bbc.css",
+    "static/js/main.ccf6461d.js"
+  ]
+}
